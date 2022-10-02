@@ -1,1 +1,1 @@
-👋 I’m Gustaf, a sofware engineer living in Sweden and building apps for iOS.
+👋 I’m Gustaf, a software engineer living in Sweden and building apps for iOS.
